@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragement</string>
+    <string name = "textview">메인 프레그먼트</string>
+    <string name = "button">메뉴 화면으로</string>
+
+    <string name = "textview2">메뉴 프레그먼트</string>
+    <string name = "button2">메인 화면으로</string>
+</resources>

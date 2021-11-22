@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="근무지">
+        <item>근무지1</item>
+        <item>근무지2</item>
+        <item>근무지3</item>
+    </string-array>
+</resources>
